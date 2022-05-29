@@ -1,9 +1,9 @@
 {
     "socket.url": "wss://ws.bobba.ca:2096",
     "asset.url": "https://game.bobba.ca/nitro",
-    "image.library.url": "https://game.bobba.ca/c_images/",
-    "hof.furni.url": "https://game.bobba.ca/hof_furni",
-    "gamedata.url": "https://game.bobba.ca/gamedata",
+    "image.library.url": "https://swfs.bobba.ca/c_images/",
+    "hof.furni.url": "https://swfs.bobba.ca/hof_furni",
+    "gamedata.url": "https://swfs.bobba.ca/gamedata",
     "images.url": "${asset.url}/images",
     "sounds.url": "${asset.url}/sounds/%sample%.mp3",
     "external.texts.url": [ "${gamedata.url}/ExternalTexts.json", "${gamedata.url}/UITexts.json" ],
